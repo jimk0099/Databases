@@ -26,6 +26,8 @@ More details can be found in 'project_2021_final.pdf'.
 ### ER Model
 ![Screenshot](ER_Model.png)
 
+### Relational Model
+![Screenshot](Relational_Model.png)
 
 ## Authors
 
