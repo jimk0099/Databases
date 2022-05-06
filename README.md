@@ -30,3 +30,6 @@ More details can be found in 'project_2021_final.pdf'.
 | Dimitrios Kalemis | ... |
 | Mihalis Kolliniatis | ... |
 
+
+## ER Model
+![alt text](https://github.com/[jimk0099]/[Database-Project]/blob/[main]/ER_Model.png?raw=true)
