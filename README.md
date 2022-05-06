@@ -22,6 +22,10 @@ will be traced, in order to deal with the most probable transmittions of the vir
 
 More details can be found in 'project_2021_final.pdf'.
 
+## ⚙ Implementation
+### ER Model
+![Screenshot](ER_Model.png)
+
 
 ## Authors
 
@@ -31,5 +35,4 @@ More details can be found in 'project_2021_final.pdf'.
 | Mihalis Kolliniatis | ... |
 
 
-## ER Model
-![alt text](https://github.com/[jimk0099]/[Database-Project]/blob/[main]/ER_Model.png?raw=true)
+
