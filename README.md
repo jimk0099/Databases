@@ -22,12 +22,35 @@ will be traced, in order to deal with the most probable transmittions of the vir
 
 More details can be found in 'project_2021_final.pdf'.
 
-## ⚙ Implementation
+## 📈 Database Diagrams
 ### ER Model
 ![Screenshot](ER_Model.png)
 
 ### Relational Model
 ![Screenshot](Relational_Model.png)
+
+## 🛠 Tools
+
+Server:
+* XAMPP
+* Apache
+* MySQL
+
+Data generation:
+* Python (connected to the database)
+* Excel (for csv files)
+
+Other tools:
+* phpMyAdmin
+* sqldbm
+
+## 🖥 Installation Steps
+  1. Set up XAMPP server
+  2. Enter phpMyAdmin
+  3. Run SQL code
+  4. Import data from csv files
+  5. Execute python code to get all data
+  6. Open php files on browser
 
 ## Authors
 
